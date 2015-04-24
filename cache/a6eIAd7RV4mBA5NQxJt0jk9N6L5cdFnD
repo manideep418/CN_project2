@@ -1,0 +1,4 @@
+HTTP/1.1 400 BAD_REQUEST
+Connection: Close
+Content-Length: 0
+

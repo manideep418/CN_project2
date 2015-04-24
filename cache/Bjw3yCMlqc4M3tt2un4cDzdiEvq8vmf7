@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Connection: keep-alive
+Content-Length: 141
+Date: Thu, 23 Apr 2015 19:13:42 GMT
+Expires: 0
+Location: https://www.godaddy.com/
+P3P: policyref="/w3c/p3p.xml", CP="COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND"
+Pragma: no-cache
+Server: Microsoft-IIS/7.5
+Set-Cookie: market=en-US; domain=godaddy.com; expires=Sat, 23-Apr-2016 19:13:41 GMT; path=/
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="https://www.godaddy.com/">here</a>.</h2>
+</body></html>
